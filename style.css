@@ -1,0 +1,41 @@
+.showArea {
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 200px;
+    padding: 30px;
+    font-family: serif;
+}
+
+.inputArea {
+    width: 600px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.inputArea input[type="text"] {
+    border: solid 0.5px lightgray;
+    border-radius: 10px/15px;
+    width: 450px;
+    height: 30px;
+    font-size: 14px;
+}
+
+.inputArea input[type="button"] {
+    width: 115px;
+    height: 32px;
+    color: #59b1eb;
+    background: #fff;
+    border: solid 0.5px #59b1eb;
+    font-size: 14px;
+    margin-left: 10px;
+    padding: 0 7px;
+}
+
+.inputArea input[type="button"]:hover {
+    color: #fff;
+    background: #59b1eb;
+}
