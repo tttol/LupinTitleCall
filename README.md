@@ -3,7 +3,7 @@
 ルパン三世のカシャカシャってなるタイトルコールを任意の文字列で生成することが可能です。
 
 ## URL
-https://tol0929.github.io/LupinTitleCall/
+https://tttol.github.io/LupinTitleCall/
 
 ## Qiitaで400を超えるLGTMを頂きました（何故？）
 その時の記事
